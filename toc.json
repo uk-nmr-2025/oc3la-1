@@ -1,0 +1,81 @@
+[
+  {
+    "groupName": "First Series",
+    "folderName": "10_First",
+    "children": [
+      {
+        "id": "7ZJSeb5KNLWwpHaohYmcbwp50a4=",
+        "mf": "C8H10O",
+        "idCodeHash": "86200d52beb93183ee69cb115025e233",
+        "file": "./10_First/10_60-12-8.nmrium.zip",
+        "title": "60-12-8",
+        "selected": true,
+        "idCode": "didH@@RUe^Fh@@@@"
+      },
+      {
+        "id": "YF3WSsU06yubsK0x9c26wwFsyOA=",
+        "mf": "C3H6O",
+        "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
+        "file": "./10_First/20_Second exercise.nmrium.zip",
+        "title": "Second exercise",
+        "idCode": "gBQ@@eLUT@@"
+      }
+    ]
+  },
+  {
+    "id": "x/m/ot97dnPnneEOibKbLS4H5q0=",
+    "mf": "C8H10",
+    "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
+    "file": "./20_Second level.nmrium.zip",
+    "title": "Second level",
+    "idCode": "daD@@DjUZxHH@@"
+  },
+  {
+    "id": "FvWyHVfScMh3DEgOPn2KLqpi4zY=",
+    "mf": "C3H7Cl",
+    "idCodeHash": "4751386851a5d2b60e228bfcb4f25757",
+    "file": "./Übung 1.nmrium.zip",
+    "title": "Übung 1",
+    "idCode": "gC`HADIMT@@"
+  },
+  {
+    "id": "pzNnISyoQTMAmkz6dJ7U6OcZg90=",
+    "mf": "C3H7Cl",
+    "idCodeHash": "3677ad0b160161833bd81aeee2deb2db",
+    "file": "./Übung 2.nmrium.zip",
+    "title": "Übung 2",
+    "idCode": "gC`HADIKT@@"
+  },
+  {
+    "id": "svF9dr0lKrVs8yaEpnYliKvXEvY=",
+    "mf": "C4H8O2",
+    "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+    "file": "./Übung 3.nmrium.zip",
+    "title": "Übung 3",
+    "idCode": "gGP`@df]j`@"
+  },
+  {
+    "id": "HMm8QqWtItXyljuBPR8zTOFimQ8=",
+    "mf": "C4H8O",
+    "idCodeHash": "c24527097aa6fc9f937412dd192802a7",
+    "file": "./Übung 4.nmrium.zip",
+    "title": "Übung 4",
+    "idCode": "gJQ@@dru@@"
+  },
+  {
+    "id": "3GZ2dy+2oImYdiZBswcYSCTLE64=",
+    "mf": "C8H10",
+    "idCodeHash": "a03d0ea385fed67f239b8537311f5380",
+    "file": "./Übung 5.nmrium.zip",
+    "title": "Übung 5",
+    "idCode": "daD@@DjWzXHB@@"
+  },
+  {
+    "id": "+Kma/inK0uQx5dJuvQgcsLJPMk8=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "file": "./Übung 6.nmrium.zip",
+    "title": "Übung 6",
+    "idCode": "deTH@@RYe\\YZB@@@"
+  }
+]
